@@ -4,13 +4,13 @@
 
 # Developer in Progress.
 
-<p align="center">
+
   <img src="https://i.ibb.co/CQQfXMd/hmtl.png" alt="HTML" width="100" />
   <img src="https://i.ibb.co/N6zYfMf/css.png" alt="CSS" width="100" />
   <img src="https://i.ibb.co/pyMgt2y/js.png" alt="JavaScript" width="100" />
   <img src="https://i.ibb.co/3NT27Hg/recat.png" alt="React.js" width="100" />
   <img src="https://i.ibb.co/n3YgqD5/node.png" alt="Node.js" width="100" />
-</p>
+
 
 ## Most Used Languages
 

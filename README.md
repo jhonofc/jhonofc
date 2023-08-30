@@ -13,6 +13,5 @@
 </p>
 
 ## Most Used Languages
-<p align="center">
+
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonofc&layout=compact)
-</p>
